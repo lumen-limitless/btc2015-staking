@@ -1,3 +1,6 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/ERC4626-revenue-distribution-token"]
+	path = lib/ERC4626-revenue-distribution-token
+	url = https://github.com/lumen-limitless/ERC4626-revenue-distribution-token
