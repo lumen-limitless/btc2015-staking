@@ -4,6 +4,3 @@
 [submodule "lib/ERC4626-revenue-distribution-token"]
 	path = lib/ERC4626-revenue-distribution-token
 	url = https://github.com/lumen-limitless/ERC4626-revenue-distribution-token
-[submodule "lib/solady"]
-	path = lib/solady
-	url = https://github.com/vectorized/solady
